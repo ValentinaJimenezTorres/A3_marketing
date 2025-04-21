@@ -6,8 +6,8 @@ Este proyecto académico tiene como objetivo diseñar e implementar un sistema d
 
 ## Contenido
 
-El proyecto incluye las siguientes etapas y componentes:
+El proyecto incluye los siguientes componentes:
 
-* **Análisis Exploratorio de Datos (EDA):**
-* **Uso de SQL:**
-* **Diseño del Sistema de Recomendación:**
+* **Uso de SQL**
+* **Análisis Exploratorio de Datos (EDA)**
+* **Diseño del Sistema de Recomendación**
