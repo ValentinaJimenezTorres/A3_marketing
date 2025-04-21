@@ -11,3 +11,7 @@ El proyecto incluye los siguientes componentes:
 * **Uso de SQL**
 * **Análisis Exploratorio de Datos (EDA)**
 * **Diseño del Sistema de Recomendación**
+
+## Autores
+
+Valentina Jimenez, David Diaz, Vaylen Vegas, Nicolás Niño
