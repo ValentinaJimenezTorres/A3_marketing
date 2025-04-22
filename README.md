@@ -14,4 +14,4 @@ El proyecto incluye los siguientes componentes:
 
 ## Autores
 
-Valentina Jimenez, David Diaz, Vaylen Vegas, Nicolás Niño
+Valentina Jimenez, David Diaz, Vaylen Vega, Nicolás Niño
