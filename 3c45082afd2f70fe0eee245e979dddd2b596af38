@@ -1,0 +1,126 @@
+[33mcommit 5107dd3c349b15decfacc140b80e304b65e3f9ec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Fri Apr 25 11:16:06 2025 -0500
+
+    Cambio de los graficos con la librería express
+
+[33mcommit 4e73cf9656ec60e3bf0581fa9025fc060d13784f[m
+Merge: 994ec9c 3c45082
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Fri Apr 25 11:15:09 2025 -0500
+
+    Merge: Aceptando cambios remotos en b_exploracion_limpieza.ipynb
+
+[33mcommit 994ec9c5ef9e9eb9973433689dc68e389f1f21a9[m
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Fri Apr 25 11:00:20 2025 -0500
+
+    Cambio de graficos con express
+
+[33mcommit 3c45082afd2f70fe0eee245e979dddd2b596af38[m
+Author: daviddiaz <dguillermo.diaz@udea.edu.co>
+Date:   Thu Apr 24 21:57:59 2025 -0500
+
+    Cambio de consultas de usuarios en pandas a sql
+
+[33mcommit c00b38124c431ab9ca8d7da3e24c5dd637e1b697[m
+Author: daviddiaz <dguillermo.diaz@udea.edu.co>
+Date:   Wed Apr 23 21:24:55 2025 -0500
+
+    Revisión y modificación del archivo de exploración
+
+[33mcommit ee79b1bdcf9af61aa457559fe48cf8d17a84e822[m
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Wed Apr 23 15:41:37 2025 -0500
+
+    Revisión de redacción y ortografia
+
+[33mcommit f33320be56b0a96d1ad83e60abbd21caeb91a080[m
+Author: daviddiaz <dguillermo.diaz@udea.edu.co>
+Date:   Wed Apr 23 14:24:02 2025 -0500
+
+    Se realizan modificaciones en el archivo b_explorarion_limpieza
+
+[33mcommit 05651d40dbebf38eb8bd71e532b3a9d13c89749a[m
+Author: vaylen vega <105746281+vay0@users.noreply.github.com>
+Date:   Tue Apr 22 08:40:05 2025 -0500
+
+    Actualizar README.md
+
+[33mcommit 0a100faa12abef9a6dae067e4572d6a55c569fa4[m
+Author: vaylenvega <vaylenvega@hotmail.com>
+Date:   Tue Apr 22 07:12:12 2025 -0500
+
+    Creacion de insights
+
+[33mcommit 2773e3af002d88be186852462e98aa24dac5f1c1[m
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Mon Apr 21 15:27:51 2025 -0500
+
+    Creación de medidas estadisticas y manipulación con pandas
+
+[33mcommit 6d87399a6340b11b3d244f10cb96b58d0b84b596[m
+Author: Niconino <159822873+niconinov@users.noreply.github.com>
+Date:   Mon Apr 21 13:56:01 2025 -0500
+
+    Update README.md
+
+[33mcommit 6b3b8c4bac6639ce638caaf5a8ff455fe62a53b1[m
+Author: Niconino <159822873+niconinov@users.noreply.github.com>
+Date:   Mon Apr 21 13:52:25 2025 -0500
+
+    Update README.md
+
+[33mcommit 4e2dd7ce2c19c4e584c80d639e5ff8badab783ef[m
+Author: Niconino <159822873+niconinov@users.noreply.github.com>
+Date:   Mon Apr 21 13:51:37 2025 -0500
+
+    Update README.md
+
+[33mcommit 63d5ba4949f6048a1767fe0158adb568341d6991[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 21 12:08:59 2025 -0500
+
+    se organizan y se le da orden a los colabs
+
+[33mcommit 892a223ab3e31fdcd026b508f36b64299f49f095[m
+Author: nicolas.ninov@udea.edu.co <nicolas.ninov@udea.edu.co>
+Date:   Mon Apr 21 11:29:11 2025 -0500
+
+    Exploración inicial mediante SQL
+
+[33mcommit 6d87e9d924d4a9396ce9f454f19f49200db7c8a1[m
+Author: daviddiaz <dguillermo.diaz@udea.edu.co>
+Date:   Wed Apr 16 15:18:47 2025 -0500
+
+    Se agrega archivo de funciones .py
+
+[33mcommit 40753610ba32c110fa3198eba35f7cda943ea542[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 14 21:27:58 2025 -0500
+
+    Update README.md
+
+[33mcommit 450c704c70c4d296b8b8e11a0a7f68926d817c85[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 14 21:25:54 2025 -0500
+
+    se desarrolla lo explicado enla clase del 10 de abril
+
+[33mcommit 47c54fd836eba03bddaeb49031f2e1950d237886[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 14 19:20:18 2025 -0500
+
+    pequeñas modificaciones a los nombres de los archivos para que quede estandar
+
+[33mcommit 39826d9cb7fb305ae1a86cb0ab123b327e18f6d0[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 14 19:02:10 2025 -0500
+
+    se crea e repositorio en github se carga el dataset en carpeta de data y se crea archivo colab para exploracion
+
+[33mcommit be5172e430e9dbaeab3ecb03a70c7f1c1ea30ff2[m
+Author: ValentinaJimenezTorres <valentina.jimenezt@udea.edu.co>
+Date:   Mon Apr 14 18:12:36 2025 -0500
+
+    Initial commit
